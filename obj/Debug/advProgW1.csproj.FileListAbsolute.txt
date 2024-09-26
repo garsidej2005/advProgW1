@@ -1,0 +1,7 @@
+C:\Users\bi51oa\source\repos\advProgW1\advProgW1\obj\Debug\advProgW1.csproj.AssemblyReference.cache
+C:\Users\bi51oa\source\repos\advProgW1\advProgW1\obj\Debug\advProgW1.csproj.CoreCompileInputs.cache
+C:\Users\bi51oa\source\repos\advProgW1\advProgW1\bin\Debug\advProgW1.exe.config
+C:\Users\bi51oa\source\repos\advProgW1\advProgW1\bin\Debug\advProgW1.exe
+C:\Users\bi51oa\source\repos\advProgW1\advProgW1\bin\Debug\advProgW1.pdb
+C:\Users\bi51oa\source\repos\advProgW1\advProgW1\obj\Debug\advProgW1.exe
+C:\Users\bi51oa\source\repos\advProgW1\advProgW1\obj\Debug\advProgW1.pdb
